@@ -1,0 +1,27 @@
+.abc{
+	height:400px;
+	width:100%;
+	float:left;
+}
+.xyz{
+	height:400px;
+	width:760px;
+	float:left;
+}
+.html{
+	font-size:50px;
+	color:black;
+	float:left;
+	margin-top:150px;
+	margin-left:10%
+}
+.b2{
+	height:400px;
+	width:100%;
+	float:left;
+}
+.xyz2{
+	height:400px;
+	width:760px;
+	float:right;
+}
